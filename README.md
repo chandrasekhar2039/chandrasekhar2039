@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chandrasekhar Jagannath Samanta</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
--   🔭 I’m currently working on **Gatsby**
+-   🔭 I’m currently working on **Blockchain**
 
--   🌱 I’m currently learning **Next.js**
+-   🌱 I’m currently learning **Smart** **Contract**
 
 -   👯 I’m looking to collaborate on **MERN stack**
 
