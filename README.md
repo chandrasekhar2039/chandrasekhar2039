@@ -16,4 +16,4 @@
 <a href="https://instagram.com/developer_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="developer_dev" height="30" width="40" /></a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=chandrasekhar2039)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-ten-rho.vercel.app?user=chandrasekhar2039)](https://git.io/streak-stats)
